@@ -4,7 +4,7 @@
   "outputDirectory": "dist",
   "functions": {
     "api/index.mjs": {
-      "includeFiles": "**/*"
+      "includeFiles": "dist/**"
     }
   },
   "cleanUrls": false,
