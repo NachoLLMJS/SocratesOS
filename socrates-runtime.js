@@ -3,8 +3,13 @@
   const entries = Object.entries(COPY).sort((a,b) => b[0].length - a[0].length);
   const blocked = new Set(['SCRIPT','STYLE','NOSCRIPT']);
   const norm = value => String(value || '').replace(/\s+/g,' ').trim();
-  const exactCopy = new Map(entries.map(([oldText,newText]) => [norm(oldText),newText]));
+  const exactCopy = new Map();
+  for(const [oldText,newText] of entries){
+    exactCopy.set(norm(oldText),newText);
+    exactCopy.set(norm(oldText.replaceAll('Polymarket','the market').replaceAll('ETH','BNB')),newText);
+  }
   const BINANCE_ORANGE='#F3BA2F';
+
 
   document.documentElement.style.setProperty('--base--yellow',BINANCE_ORANGE,'important');
   const theme=document.createElement('style');
@@ -51,6 +56,13 @@
     const matchSet=new Set(matches), notDeepest=new Set();
     for(const match of matches) for(let parent=match.parentElement;parent;parent=parent.parentElement) if(matchSet.has(parent)) notDeepest.add(parent);
     for(const el of matches) if(!notDeepest.has(el)) replacePreservingStructure(el,exactCopy.get(norm(el.textContent)));
+    for(const el of elements){
+      const text=norm(el.textContent);
+      if(text.startsWith('Deposit BNB on Robinhood Chain. Pick any of the most traded the market markets,')){
+        const replacement=entries.find(([oldText])=>oldText.startsWith('Deposit ETH on Robinhood Chain. Pick any of the most traded'))?.[1];
+        if(replacement) replacePreservingStructure(el,replacement);
+      }
+    }
     const attrs=['title','aria-label','alt','content','placeholder'];
     for(const el of document.querySelectorAll('*')) for(const attr of attrs) {
       if(!el.hasAttribute(attr)) continue;
@@ -76,8 +88,8 @@
       if(key==='project') anchor.setAttribute('href','/#project');
       if(['method','aboutsocratesos','viewcoverage','learnmore','understandthemarket'].includes(key)) anchor.setAttribute('href','/#how-it-works');
       if(['xreports','xagent'].includes(key)) anchor.setAttribute('href','/#x-agent');
-    }
-    document.querySelectorAll('.navbar_dropdown-link').forEach(anchor=>anchor.setAttribute('href','/#how-it-works'));
+      }
+      document.querySelectorAll('.navbar_dropdown-link').forEach(anchor=>anchor.setAttribute('href','/#how-it-works'));
     document.querySelectorAll('[fill="#f9fe2e" i]').forEach(el=>el.setAttribute('fill',BINANCE_ORANGE));
     document.querySelectorAll('[stroke="#f9fe2e" i]').forEach(el=>el.setAttribute('stroke',BINANCE_ORANGE));
     document.querySelectorAll('img[src*="robinhood-wordmark"]').forEach(img=>img.setAttribute('src','/img/chains/socrates-wordmark.svg'));
@@ -114,8 +126,8 @@
     setupNavigation();
     const finish=()=>{setupNavigation();applyCopy();};
     if('requestIdleCallback' in window) requestIdleCallback(finish,{timeout:600}); else setTimeout(finish,0);
-    setTimeout(setupNavigation,900);
-    setTimeout(setupNavigation,2600);
+    setTimeout(finish,900);
+
   };
   if(document.readyState==='complete') start(); else window.addEventListener('load',start,{once:true});
 
