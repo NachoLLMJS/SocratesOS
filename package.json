@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "main": "server.mjs",
   "scripts": {
-    "preview": "node server.mjs",
+    "preview": "node scripts/local-server.mjs",
     "build": "node verify.mjs && node build-static.mjs",
-    "check": "node --check server.mjs && node verify.mjs"
+    "check": "node --check scripts/local-server.mjs && node verify.mjs"
   }
 }
