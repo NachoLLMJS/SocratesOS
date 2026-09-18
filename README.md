@@ -5,7 +5,7 @@ This directory preserves the deployed Poly Perps visual structure, spacing, typo
 Run:
 
 ```bash
-npm start
+npm run preview
 ```
 
 Open http://127.0.0.1:4173
