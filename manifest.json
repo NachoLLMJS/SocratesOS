@@ -1,0 +1,994 @@
+[
+  {
+    "url": "https://www.polyperps.org/",
+    "path": "index.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 421211,
+    "sha256": "82fe712b0580cd724eacd4c47213d0ad2bf4266cc8759c5376b062d5c8316fb8"
+  },
+  {
+    "url": "https://www.polyperps.org/trade",
+    "path": "trade/index.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 160045,
+    "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.googleapis.com/montserrat.css",
+    "path": "assets/fonts.googleapis.com/montserrat.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 34587,
+    "sha256": "46d04360ee4f395755d490d85df71e99e935a7d8ee719f1eb9a24b0f7d640b26"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/short-wordmark.svg",
+    "path": "img/icons/short-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 230,
+    "sha256": "819d3e9625848997645765262dbb8209a21acdef2b735ec52f42ae1bf482c700"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.23/bundled/lenis.min.js",
+    "path": "assets/cdn.jsdelivr.net/gh/studio-freight/lenis@1.0.23/bundled/lenis.min.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 12197,
+    "sha256": "90c2a6108cf3f3b216de9fbd953ccdf0766cb6555082d9ab7024c8cd7ae2e9af"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a5699840d1b31fb8518bed9_testimonial-rock-2%20(1).avif",
+    "path": "assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a5699840d1b31fb8518bed9_testimonial-rock-2%20(1).avif",
+    "status": 200,
+    "type": "image/avif",
+    "bytes": 108617,
+    "sha256": "e52d2b78a1e3cd8a4b01e204f426d14dcf8a90ea2f7aeb2b79259b7025184b25"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1kp1o4kqi1096.js",
+    "path": "_next/static/immutable/chunks/1kp1o4kqi1096.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 8868,
+    "sha256": "fcb087a55ce877e7cd977ebe8d78815d8c9921692c5d11292b7b222e61a70ca1"
+  },
+  {
+    "url": "https://www.polyperps.org/img/categories/culture-wordmark.svg",
+    "path": "img/categories/culture-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 232,
+    "sha256": "793599c44270a4fec56d5f0459d29fefd43594b3fd8038734470813cd845945b"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/video-g-transparent-alpha.mov",
+    "path": "assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/video-g-transparent-alpha.mov",
+    "status": 200,
+    "type": "video/quicktime",
+    "bytes": 2799175,
+    "sha256": "8d7670372f37d1532f0021413d1e6ee969b81b90276e005855dc87b3e27c50cd"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js",
+    "path": "assets/cdn.prod.website-files.com/gsap/3.15.0/SplitText.min.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 7732,
+    "sha256": "419f7027a5f086a12cb7988736d8fdd3a6ed2200229661de25b6628ca7ced344"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/index-DM4qWrvI.js",
+    "path": "assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/index-DM4qWrvI.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 739401,
+    "sha256": "7ee339f039fdfd79cfd25f1049c6d64180d2ef2e573eaa26f373a154213a81f4"
+  },
+  {
+    "url": "https://www.polyperps.org/img/chains/robinhood.png",
+    "path": "img/chains/robinhood.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 2322,
+    "sha256": "7f7dee4e4a553c06c5e194c2a9868c10749dfe6b02ae37ec7482bf01a073f71a"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a45168c7316606c592707d9_grid.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a45168c7316606c592707d9_grid.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 6342,
+    "sha256": "279f0b6faf21bbc38ef27d52627fb880ea39223425ddcd8c39377d7a142894c8"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d35cb6af73688d44f5_68fc4b2687a2f9ceaa6517b0d60ebc35_04-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d35cb6af73688d44f5_68fc4b2687a2f9ceaa6517b0d60ebc35_04-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 66840,
+    "sha256": "ca219126c32a3983817df64000789ff221220a34db7c08435a08ccd91b50072f"
+  },
+  {
+    "url": "https://www.polyperps.org/img/apple-touch-icon.png",
+    "path": "img/apple-touch-icon.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 54137,
+    "sha256": "75d92b24b13d72e4afa3914bc7a52e81df36346524340cfd18be13ac0e5f0eea"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/long-wordmark.svg",
+    "path": "img/icons/long-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 229,
+    "sha256": "5c2e6788c900922fcaa3e44b6081e0a38b2dbba7ef5bd5aaa076a487e2f77dfa"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/20es43nb27oti.js",
+    "path": "_next/static/immutable/chunks/20es43nb27oti.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 34718,
+    "sha256": "91f598badaed9141b1c267e346cdd724a023add2b14f3b6d5d8e7b280825c172"
+  },
+  {
+    "url": "https://www.polyperps.org/img/favicon-512.png",
+    "path": "img/favicon-512.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 313195,
+    "sha256": "1ee5c4b38ba6ba4bd2513681b8e2402e65116fdac7055cdf6d20b7e16aa3e30b"
+  },
+  {
+    "url": "https://www.polyperps.org/trade?q=crypto",
+    "path": "trade/index__q_e05e043343.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 160045,
+    "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/long.svg",
+    "path": "img/icons/long.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 242,
+    "sha256": "9f5d7bedd214cb549111ba24ca40fa379ca9e8024336e6e8e7fdac06dcc107a7"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f66195c7ffd1ddc5e30a2_4f643ed592e79cd87251c9bd88523ea4_05-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f66195c7ffd1ddc5e30a2_4f643ed592e79cd87251c9bd88523ea4_05-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 155966,
+    "sha256": "5c8cc2a185894c3a2a4ac412f7ac4496479216a78d828256f726e9107a42201f"
+  },
+  {
+    "url": "https://www.polyperps.org/img/settled-in-eth.svg",
+    "path": "img/settled-in-eth.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 190,
+    "sha256": "58edad33c7b21c194545966ac2fdd99d35ae83cf1e2e4bde478f5c5d2e2f1eff"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d373435a33a7dab8d0_14cd8dd716b5b4fbce73aad9f4d33916_02-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d373435a33a7dab8d0_14cd8dd716b5b4fbce73aad9f4d33916_02-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 63622,
+    "sha256": "6532cf3bddec560848f34ff11cdad05a5b0568c39a1741052e28a54b2248109e"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
+    "path": "assets/cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 154597,
+    "sha256": "985f1224c0eeec99d367a9db35e58e44b21e7eb9ce45831b15b4c108e41fd97f"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56999cbcf846ae85b13ee1_testimonial-rock-5%20(1).avif",
+    "path": "assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56999cbcf846ae85b13ee1_testimonial-rock-5%20(1).avif",
+    "status": 200,
+    "type": "image/avif",
+    "bytes": 95961,
+    "sha256": "9ec117a86e83a403c655f0231e01b7c2e5c9cf0db2606c6b0fc6cd3b3b97a077"
+  },
+  {
+    "url": "https://www.polyperps.org/img/categories/crypto-wordmark.svg",
+    "path": "img/categories/crypto-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 231,
+    "sha256": "d49329bfb474c76b8bd1108f9ad4103001602ba12d2ed72013f92ef76ca3458a"
+  },
+  {
+    "url": "https://www.polyperps.org",
+    "path": "index.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 421211,
+    "sha256": "82fe712b0580cd724eacd4c47213d0ad2bf4266cc8759c5376b062d5c8316fb8"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1o59465tdnhnz.js",
+    "path": "_next/static/immutable/chunks/1o59465tdnhnz.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 159960,
+    "sha256": "9cad40ba87891d932125a6b219267d9b08fca009e24e1c009dd996be59e2de5e"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d373435a33a7dab8d0_14cd8dd716b5b4fbce73aad9f4d33916_02-tab-p-500.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d373435a33a7dab8d0_14cd8dd716b5b4fbce73aad9f4d33916_02-tab-p-500.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 18582,
+    "sha256": "1f683763b4189f88407f26aaae149e06c0a50a1237cd7a90a6f29bf38109508c"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+    "path": "_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 112594,
+    "sha256": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/css/p-security.webflow.shared.eadd92270.min.css",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/css/p-security.webflow.shared.eadd92270.min.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 247417,
+    "sha256": "cee4523c4424221aeedb5f3dc9a67cdae58c3f1edbeb3d4ba460d0b6df6a8313"
+  },
+  {
+    "url": "https://www.polyperps.org/img/categories/science-wordmark.svg",
+    "path": "img/categories/science-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 232,
+    "sha256": "c37a1dd12408de1f1a024e7981156ebe3bf7a4733c8e3acb06a0283482061ab5"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/leverage.svg",
+    "path": "img/icons/leverage.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 261,
+    "sha256": "756572c8a5cfef556d1bd39cf8655ec0d475aa3456a8353211735af8b51f684d"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a59f7cc6b9b58fcf00f2dca_04-tab-2.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a59f7cc6b9b58fcf00f2dca_04-tab-2.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 113442,
+    "sha256": "80a519cdfc1cc69c279cbabdab41abfb632fb7a7339c3bed42cddf148540ea1d"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+    "path": "assets/cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 18454,
+    "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8"
+  },
+  {
+    "url": "https://www.polyperps.org/img/categories/esports-wordmark.svg",
+    "path": "img/categories/esports-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 232,
+    "sha256": "a709c1b4059f6689f554f0a81243cd5c53bc65eac321667af21c1407fdb39757"
+  },
+  {
+    "url": "https://www.polyperps.org/trade?q=sports",
+    "path": "trade/index__q_fe693c8b31.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 160045,
+    "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56999578be11ad1c538a06_testimonial-rock-4%20(1).avif",
+    "path": "assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56999578be11ad1c538a06_testimonial-rock-4%20(1).avif",
+    "status": 200,
+    "type": "image/avif",
+    "bytes": 87021,
+    "sha256": "afb2d9c78de849fc8cb1554a187788189b3dad3e64414b58e421824cbc2b9e84"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/short.svg",
+    "path": "img/icons/short.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 242,
+    "sha256": "1efe95fdf0f21a142ff04a9906dd040fb253aa79e5b61db2454cf7053ca4e06a"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a5699a3157edca4966479cb_testimonial-rock-6%20(1).avif",
+    "path": "assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a5699a3157edca4966479cb_testimonial-rock-6%20(1).avif",
+    "status": 200,
+    "type": "image/avif",
+    "bytes": 119578,
+    "sha256": "fc8974046b867929e6b1738f037e88f39d0d500a8006b913b3d9a9f4e1360795"
+  },
+  {
+    "url": "https://www.polyperps.org/img/favicon-192.png",
+    "path": "img/favicon-192.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 60502,
+    "sha256": "9810f4919817adbcef872e93055b505a6548d083505cccdd7650a91d1588340a"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/33ygv9jxvhfqn.js",
+    "path": "_next/static/immutable/chunks/33ygv9jxvhfqn.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 229612,
+    "sha256": "53d54bf3000ab2a1a87c68993523db363b21ac84fd5f950ff510b89573f1acaf"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d35cb6af73688d44f5_68fc4b2687a2f9ceaa6517b0d60ebc35_04-tab-p-500.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d35cb6af73688d44f5_68fc4b2687a2f9ceaa6517b0d60ebc35_04-tab-p-500.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 19994,
+    "sha256": "38f37793fb61aa9bafb7c5f7aa28039fa78b8a58ba1d1159b9d4f450a720eeab"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js",
+    "path": "assets/cdn.prod.website-files.com/gsap/3.15.0/ScrollTrigger.min.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 44575,
+    "sha256": "b0b14d67b55b0c43c756ac0b106cfcb09d0879945f6ead64451065b0672916a2"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/fees-wordmark.svg",
+    "path": "img/icons/fees-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 231,
+    "sha256": "dd6b580b5eaa054254b08180089525080e4a9957328f0c379d831a328e1c3db4"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/turbopack-04p7tto18vsw4.js",
+    "path": "_next/static/immutable/chunks/turbopack-04p7tto18vsw4.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 9761,
+    "sha256": "5797452217061312f8f3490ad02a57175f6a2d22387a9b824064a1f024e1aa81"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js",
+    "path": "assets/cdn.prod.website-files.com/gsap/3.15.0/gsap.min.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 72927,
+    "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d419d95af100ef903e_ac9e227b0f83ac2eef9596c6f952c50e_03-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d419d95af100ef903e_ac9e227b0f83ac2eef9596c6f952c50e_03-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 134826,
+    "sha256": "c5139a15c54a9f368545a5b00be9764a3212bfe1ea0e8e6a790c246375682b94"
+  },
+  {
+    "url": "https://www.polyperps.org/img/favicon-32.png",
+    "path": "img/favicon-32.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 3076,
+    "sha256": "f1161171b7bd5de4b2bc1576daa2478a78931658943c9fdf90a621ef6c0e03ee"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d374be7e2d6d2e63ee_eed11584d0fb81f03258a156f36e6440_01-tab-p-800.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d374be7e2d6d2e63ee_eed11584d0fb81f03258a156f36e6440_01-tab-p-800.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 47158,
+    "sha256": "16ce86465e37354dbc3746a1d0df7b1a75d038bbbe04b3062b5e6130d5bdf091"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d374be7e2d6d2e63ee_eed11584d0fb81f03258a156f36e6440_01-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d374be7e2d6d2e63ee_eed11584d0fb81f03258a156f36e6440_01-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 84292,
+    "sha256": "003299537abea574369f363b8a6474b2221b2a499c9fc90ca647d910f14a6ca1"
+  },
+  {
+    "url": "https://www.polyperps.org/img/chains/robinhood-wordmark.svg",
+    "path": "img/chains/robinhood-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 3384,
+    "sha256": "a44d09ca08fde1f20287f75276d0204683960bf4b4ae1f0630d7151b508da893"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56997a91b80c8814ae2e0c_testimonial-rock-1%20(1).avif",
+    "path": "assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56997a91b80c8814ae2e0c_testimonial-rock-1%20(1).avif",
+    "status": 200,
+    "type": "image/avif",
+    "bytes": 48618,
+    "sha256": "e6aa9bb635dbb352325bee2439c9a5022a79ff050f8b8ff2982e766f138fe52e"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a454b0242772e1e71ea6ddb_code-tile.png",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a454b0242772e1e71ea6ddb_code-tile.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 58260,
+    "sha256": "8b2baf941d5c65b4463e3aa77b5de42e1898bf203b1f88cb8af8c689242f650e"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/fees.svg",
+    "path": "img/icons/fees.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 260,
+    "sha256": "a6e428d63c646d08657df7fafc5c9b21a2ba4a1faf7135fee8a0aac82e0b75cf"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/chart.svg",
+    "path": "img/icons/chart.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 262,
+    "sha256": "ffca265a014261cc83ec8e444950fb45712af7e314eac7b7bc18fca00ae29755"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56998e14932a2b9b06c8c8_testimonial-rock-3%20(1).avif",
+    "path": "assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56998e14932a2b9b06c8c8_testimonial-rock-3%20(1).avif",
+    "status": 200,
+    "type": "image/avif",
+    "bytes": 58878,
+    "sha256": "e195b585ce5f2b6a8dcf6dace3d0b2f2835fbb8521aab1ef65486478972136f7"
+  },
+  {
+    "url": "https://www.polyperps.org/img/categories/politics-wordmark.svg",
+    "path": "img/categories/politics-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 233,
+    "sha256": "21b9327270ef6bd9741e86f4ec3751f4d218a8e1a3d8affe1249b1e922038c7d"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/js/webflow.aebcbe65.66a5662f7f087cf5.js",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/js/webflow.aebcbe65.66a5662f7f087cf5.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 4745,
+    "sha256": "32fa460ad3af49d3c38c587035d497b46a53fc3e14998ab262493ad2c75568b2"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/25kvgcvbp6c14.js",
+    "path": "_next/static/immutable/chunks/25kvgcvbp6c14.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 5364,
+    "sha256": "8a943b00599e56b53569f36f4341e3465ae7705c1391562cd6c7e1f290c0c387"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/43qecj5z4iusi.js",
+    "path": "_next/static/immutable/chunks/43qecj5z4iusi.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 19449,
+    "sha256": "dd178de57ea7f5be17b3835a31763a72c6f1bfa119a8a7e54d9ae2b75453215d"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/leverage-wordmark.svg",
+    "path": "img/icons/leverage-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 228,
+    "sha256": "bda142cb743dbffbfc29a35a05dc15947cceae42fc491bcf84ffdb7d230e7930"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/settles.svg",
+    "path": "img/icons/settles.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 170,
+    "sha256": "f0f7c5df72d3f0ce6a15b9c9fe7a6c20bb19f2eee5043df5c2407358b645ed1d"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/settles-wordmark.svg",
+    "path": "img/icons/settles-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 232,
+    "sha256": "58ae54bf6742301724fe9404c2b5ccad646e812737b51f835ea264641ad6f082"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a59f7cc6b9b58fcf00f2dca_04-tab-2-p-800.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a59f7cc6b9b58fcf00f2dca_04-tab-2-p-800.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 71664,
+    "sha256": "6f204a0e75108cff986f5a4b73b28e912a0f4d0621f8b6f2e925e9d0deb038bd"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/video-green-transparent.webm",
+    "path": "assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/video-green-transparent.webm",
+    "status": 200,
+    "type": "video/webm",
+    "bytes": 1302962,
+    "sha256": "bf491e53c86b98ff68d6d1b42895a83e6455dc9e4823a07e68af4a6a697aee64"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a59f7cc6b9b58fcf00f2dca_04-tab-2-p-500.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a59f7cc6b9b58fcf00f2dca_04-tab-2-p-500.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 36572,
+    "sha256": "94614709e3f7c07b34e13b3733e000aab956c6f9e9b8e2a9489b86b144abc107"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6a3e64ff64a92f2281e8e82a",
+    "path": "assets/d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8__q_1a6f8ecc3f.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 89476,
+    "sha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d"
+  },
+  {
+    "url": "https://www.polyperps.org/img/og.png",
+    "path": "img/og.png",
+    "status": 200,
+    "type": "image/png",
+    "bytes": 27309,
+    "sha256": "9beddad4fe316ec41a645e88fc6e47a80cdae99575e6d4528ac1eda8c056ec3e"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d373435a33a7dab8d0_14cd8dd716b5b4fbce73aad9f4d33916_02-tab-p-800.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d373435a33a7dab8d0_14cd8dd716b5b4fbce73aad9f4d33916_02-tab-p-800.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 35060,
+    "sha256": "e1567c0cafc140c3e27733d09becd44bebd4b97670151e8d49dbf5b99fb66f26"
+  },
+  {
+    "url": "https://www.polyperps.org/trade?q=politics",
+    "path": "trade/index__q_35b16e325c.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 160045,
+    "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
+  },
+  {
+    "url": "https://www.polyperps.org/trade?q=esports",
+    "path": "trade/index__q_42a72e77da.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 160045,
+    "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
+  },
+  {
+    "url": "https://www.polyperps.org/trade?q=culture",
+    "path": "trade/index__q_1821dae82a.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 160045,
+    "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/2ffbhrw1aldfg.css",
+    "path": "_next/static/immutable/chunks/2ffbhrw1aldfg.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 21059,
+    "sha256": "f097d40a8c19635c933dec8600d1ccb5994a0af41dab47a5d4e62d13015eb395"
+  },
+  {
+    "url": "https://www.polyperps.org/trade?q=business",
+    "path": "trade/index__q_7360aaa15e.html",
+    "status": 200,
+    "type": "text/html",
+    "bytes": 160045,
+    "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d419d95af100ef903e_ac9e227b0f83ac2eef9596c6f952c50e_03-tab-p-800.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d419d95af100ef903e_ac9e227b0f83ac2eef9596c6f952c50e_03-tab-p-800.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 65742,
+    "sha256": "b579c36a84cafb3f8049930f2bd9e0e33012881134c6a024cfa494b722e40788"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+    "path": "assets/ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 13194,
+    "sha256": "6738716a60f6fd38dd8153c7408ae683117ff23c689d3f859203020a693cf1e4"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d374be7e2d6d2e63ee_eed11584d0fb81f03258a156f36e6440_01-tab-p-500.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d374be7e2d6d2e63ee_eed11584d0fb81f03258a156f36e6440_01-tab-p-500.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 24770,
+    "sha256": "7583e598e8451b83bee7fab58e1174ed1e2ae9dd2ad61ab0a113101f69f13d95"
+  },
+  {
+    "url": "https://www.polyperps.org/img/categories/sports-wordmark.svg",
+    "path": "img/categories/sports-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 231,
+    "sha256": "de483d1a11929ec19eca4d6458e540323eaf89bc9cd670e0f740149235ccfbd0"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d419d95af100ef903e_ac9e227b0f83ac2eef9596c6f952c50e_03-tab-p-500.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d419d95af100ef903e_ac9e227b0f83ac2eef9596c6f952c50e_03-tab-p-500.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 34318,
+    "sha256": "1db629ae75bfe68b3464178b3249e4f196f4582109e5532b22f37f0dc8933b32"
+  },
+  {
+    "url": "https://www.polyperps.org/img/icons/live-odds-wordmark.svg",
+    "path": "img/icons/live-odds-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 234,
+    "sha256": "13f3fb2d835f7b0beecb9405f12ee20c7ecdeb491ec17d7b7ba23a7788758dfd"
+  },
+  {
+    "url": "https://www.polyperps.org/img/categories/business-wordmark.svg",
+    "path": "img/categories/business-wordmark.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 233,
+    "sha256": "9f92bc01d62b05587b9fe600c786221bf4e823e599525dfa95ad0a94ac43a4a6"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d35cb6af73688d44f5_68fc4b2687a2f9ceaa6517b0d60ebc35_04-tab-p-800.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4ba7d35cb6af73688d44f5_68fc4b2687a2f9ceaa6517b0d60ebc35_04-tab-p-800.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 37596,
+    "sha256": "7a7a1bdbab5256db3e986c944fa3b2c725bc06bdb854482e2cc1eed77c5eb49c"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/381ehnbfui92x.js",
+    "path": "_next/static/immutable/chunks/381ehnbfui92x.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 3855,
+    "sha256": "f5f6202424aad0d9ffcb9df10a157bf52187ad3f2d028457e5c116f2ba3814ab"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/js/webflow.2189888c.9d55b543a667b68d.js",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/js/webflow.2189888c.9d55b543a667b68d.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 4744,
+    "sha256": "931a2956763927414df83bc06f5f5f5a9cfd01abbad3237ea85c043ffde0a854"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1673r8o4y6jwl.js",
+    "path": "_next/static/immutable/chunks/1673r8o4y6jwl.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 118114,
+    "sha256": "2fb9831816d5a9ea240474aab03aa8c6ae221da83df41cfc6dd6bc0f7b60f73b"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1w7lehy6p5giu.js",
+    "path": "_next/static/immutable/chunks/1w7lehy6p5giu.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 181189,
+    "sha256": "1529f366bc4e0c0a7ba7e5e4834ae77ed8ecb6f230e1e2054a1508fa8c86ee83"
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/2r-drklmnsl8t.js",
+    "path": "_next/static/immutable/chunks/2r-drklmnsl8t.js",
+    "status": 200,
+    "type": "application/javascript",
+    "bytes": 35484,
+    "sha256": "932e33a2d78e4d190fcb54ac91da84710b38589695b18679a4aa6b11192c3749"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxy7m0dR9pBOi.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 72452,
+    "sha256": "30cf10b2e32e189a39ee3ae4e241ab281c5224046d673ad7f767758ce62f6eff"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRyS7m0dR9pA.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 37120,
+    "sha256": "86589d0b59b311712c3cbaac0b94eb054ecda4be7b52d695588548e4754b3165"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxi7m0dR9pBOi.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 11472,
+    "sha256": "e092b22aadd0541b776d68417eb98d2ebda13e310ea8d227f6133673a17b124e"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WdhyyTh89ZNpQ.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 68224,
+    "sha256": "920711de9ae96c18970fa4faca73cd302b93ac5ed57ebeb6bfec2ddeff930082"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRxC7m0dR9pBOi.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 24412,
+    "sha256": "808a01b5d7687964a502985d91a0e71e27b083f47818d10d043124e43b69145c"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WlhyyTh89Y.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 35508,
+    "sha256": "6438d7b8ea9c7c3992d5e2fd2afdb1ff948570a3ef0bedae76247b51632960ba"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUQjIg1_i6t8kCHKm459WxRzS7m0dR9pBOi.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 22224,
+    "sha256": "f5d7590130e41b690f54f7ef3fce87535ae14a5a79d45fc03f5945d6d04fc45c"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459W1hyyTh89ZNpQ.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 21492,
+    "sha256": "0b00fbd6edcc84cd5f77364bbeb06b75ed263c740061eba34511f1e2ac1a82d3"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WZhyyTh89ZNpQ.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 10620,
+    "sha256": "9e2672d100bc36a37073fb250abfaa7394f5151bf5dda3f4d5fc281345eb391b"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2",
+    "path": "assets/fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459WRhyyTh89ZNpQ.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 24072,
+    "sha256": "744830a0e77dd14dd543a4230d6e3ce67ca961634074b5d536ebafc66c732301"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f66185c7ffd1ddc5e3077_5cc17d013b9a43ebbf81b8ad51b003e4_02-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f66185c7ffd1ddc5e3077_5cc17d013b9a43ebbf81b8ad51b003e4_02-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 162462,
+    "sha256": "0b9dcdb6e320e947f53e61cad7b00584d61b6a9c68220e322608f6930c5d24ee"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f65ca2d827ccdef919d7f_05-tab-light.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f65ca2d827ccdef919d7f_05-tab-light.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 4162,
+    "sha256": "4d5cf786dd4f154d3e6b96c76ff0e27cb0d07cbf120476350519eeab80bfe6d9"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f6618402ace4b7699d533_488c1a99ae176f1d80b3ffd844e0a530_03-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f6618402ace4b7699d533_488c1a99ae176f1d80b3ffd844e0a530_03-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 137380,
+    "sha256": "2e878fdbb2ee01c76d9b7490bf453fe110428542639244a335e9b64a217515ae"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f6619392104d7740e59b9_04-tab-2.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f6619392104d7740e59b9_04-tab-2.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 276266,
+    "sha256": "aac51469b1d1dab577ca466351bf5af8d1e46924d9d775b81dea250fd7855a78"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f661950cc19d22212fd0f_aa12e68ac0cab56f317098da0caee08b_01-tab.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5f661950cc19d22212fd0f_aa12e68ac0cab56f317098da0caee08b_01-tab.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 180576,
+    "sha256": "a231ed5bce4dea7a8457bf6e6598eafa62f9ccc986bc38cbccd95a9935f566f4"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4c0df200e5f767e24ad26d_arrow-right.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4c0df200e5f767e24ad26d_arrow-right.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 941,
+    "sha256": "2dce30e0b6144091657f68839b184cef269ad3bd9b089caa391327bcdaca4afc"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5e383bb0cde52906e37605_maturity.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5e383bb0cde52906e37605_maturity.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 76942,
+    "sha256": "711eda7ce327c59175c38e784a7aa97155ed8dcc327736687bf92c525a572bbb"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3e64ff64a92f2281e8e87d_check.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3e64ff64a92f2281e8e87d_check.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 242,
+    "sha256": "004e34c43020451249125850499cd47ff8c589e1de0d7fb0ee6414a233775738"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a71ea7af1236d5539efb78c_featured-icon.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a71ea7af1236d5539efb78c_featured-icon.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 1837,
+    "sha256": "9594a2bb85138684fea6a2c81471aa997f4baa5d23841c1560dd157587b883ae"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a42d298b0b7495d7da5dbf1_TT_Interphases_Pro_Trial_Medium.woff2",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a42d298b0b7495d7da5dbf1_TT_Interphases_Pro_Trial_Medium.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 62212,
+    "sha256": "951da8b8de49380ec948e48b04494dde2f8a6d9e1d950be651d98d19908959a9"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg",
+    "path": "assets/d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 167,
+    "sha256": "121f8dc257d116b52e8d91b2c735fd52e7516c268b6c721c60ac45d22d5e6404"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3ec6f9e78b60ecbc499c90_TT_Interphases_Pro_Trial_Bold.woff2",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3ec6f9e78b60ecbc499c90_TT_Interphases_Pro_Trial_Bold.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 60480,
+    "sha256": "7791f74c1f26ab2eba8ea8291c829a20736819bb0ae5ad733377d2ab738d83ee"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5e4d7bc9cb894d9c545860_CCLegendaryLegerdemain%20Regular.woff2",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5e4d7bc9cb894d9c545860_CCLegendaryLegerdemain%20Regular.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 28448,
+    "sha256": "35f7dfa992b205703a0542ca210d147ca235f0a763e726f73718383d21695237"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a58cbffd2a4e7bcf494e708_14a2612375822dc771ef8284ab991c23_footer-grid-bg.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a58cbffd2a4e7bcf494e708_14a2612375822dc771ef8284ab991c23_footer-grid-bg.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 7509,
+    "sha256": "c0c6e1b382144d487f22eba0580cd3253e2eeb04e1735e32ef73c2b37d8d57a8"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/d3e54v103j8qbb.cloudfront.net/img/background-image.svg",
+    "path": "assets/d3e54v103j8qbb.cloudfront.net/img/background-image.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 11068,
+    "sha256": "23fb3e4363a68cdfd74ca173a6f9f23417c57d027c3489844d3bf1e32b4e0000"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3ec7268500b066f538ac02_TT_Interphases_Pro_Mono_Variable_Trial_Upright.woff2",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3ec7268500b066f538ac02_TT_Interphases_Pro_Mono_Variable_Trial_Upright.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 48712,
+    "sha256": "2f5cf1eebd9308124be948773f082c337fb8badaa5c213a141bdf17c94a9832f"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a50c87ee79f8c9ff5362bba_grid-bg-medium.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a50c87ee79f8c9ff5362bba_grid-bg-medium.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 2139,
+    "sha256": "5e22d2881e96254375044ba133fba8066e53464368dd86589d1a469266f2f8e4"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a6c7e57bd5ce09a96cfcc72_check.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a6c7e57bd5ce09a96cfcc72_check.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 242,
+    "sha256": "2ff1b9384d8ff3c7ed9ce45ebbf8c7d552b63ab0c36c8ddc333a5e6ba897eaf6"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a71eba52f9c1feef6c267d6_FeaturedIcon-2.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a71eba52f9c1feef6c267d6_FeaturedIcon-2.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 1878,
+    "sha256": "0096df61363022e51277503f719273945fbbde72af0ce0b7e6794c0f7cc5fed8"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a481b7483772ba3f1caf6bd_lines-grid.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a481b7483772ba3f1caf6bd_lines-grid.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 6953,
+    "sha256": "9cfd4bf0e82ec2b656a1a7d2e288d61ca7c2bf294c3a0b98d17ccf2771d4203a"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a50bcb96cc088e305195b1c_grid-small-square.svg",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a50bcb96cc088e305195b1c_grid-small-square.svg",
+    "status": 200,
+    "type": "image/svg+xml",
+    "bytes": 2858,
+    "sha256": "e4369042b0bface4a9ecfce90595ae0fda86087a2be1e5c6dac477b749bb93f8"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5e383bb0cde52906e375f4_3601883_67251.webp",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a5e383bb0cde52906e375f4_3601883_67251.webp",
+    "status": 200,
+    "type": "image/webp",
+    "bytes": 509394,
+    "sha256": "402e52ccc0e12e53352d7ad9bd50b04c4e3e08cdf8133d02f4464052283e43e9"
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3ec6f98500b066f538a054_TT_Interphases_Pro_Trial_Regular.woff2",
+    "path": "assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a3ec6f98500b066f538a054_TT_Interphases_Pro_Trial_Regular.woff2",
+    "status": 200,
+    "type": "font/woff2",
+    "bytes": 60008,
+    "sha256": "0e92842e5e57096cfbc43740e71a3916ec679741e9e2074e3dc32aeaf346c0ee"
+  },
+  {
+    "url": "https://www.polyperps.org/api/ticks?market=${U}&range=${N}`,{cache:",
+    "path": "api/ticks__q_37506809c6.json",
+    "status": 200,
+    "type": "application/json",
+    "bytes": 13,
+    "sha256": "ebaa7b33eb9e11c6693b0835eca01e254b1398f5b093a5c2316f05fa1cca223b"
+  },
+  {
+    "url": "https://www.polyperps.org/api/history?wallet=${t}`,{cache:",
+    "path": "api/history__q_f3e8d529b0.json",
+    "status": 200,
+    "type": "application/json",
+    "bytes": 13,
+    "sha256": "f771460c52dcc981b042605bb698fa708e379f61b47a8739ebf976b4401738cd"
+  },
+  {
+    "url": "https://www.polyperps.org/api/markets",
+    "path": "api/markets.json",
+    "status": 200,
+    "type": "application/json",
+    "bytes": 32329,
+    "sha256": "3e4b064cc7c3b630ba8ddec84b8e60def5eee1a92e5314c1dceb5484b0f23695"
+  }
+]

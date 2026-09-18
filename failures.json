@@ -1,0 +1,227 @@
+[
+  {
+    "url": "https://www.polyperps.org/positions",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56998e14932a2b9b06c8c8_testimonial-rock-3%20(1",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56997a91b80c8814ae2e0c_testimonial-rock-1%20(1",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56999cbcf846ae85b13ee1_testimonial-rock-5%20(1",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a56999578be11ad1c538a06_testimonial-rock-4%20(1",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/summary_large_image",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a5699840d1b31fb8518bed9_testimonial-rock-2%20(1",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a42cc87cc8921394d1917f3/6a5699a3157edca4966479cb_testimonial-rock-6%20(1",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/width=device-width, initial-scale=1",
+    "error": "InvalidURL(\"URL can't contain control characters. '/width=device-width, initial-scale=1' (found at least ' ')\")",
+    "status": null
+  },
+  {
+    "url": "https://www.polyperps.org/website",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/e,t",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/e",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/image/png",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/s",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/l",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/e,t",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/models/scene.glb",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/image/jpeg",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/b",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/0",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/S",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/models/scene-mobile.glb",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/d",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.jsdelivr.net/npm/swiper@11/e",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/e",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/t",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/b?a=1&b=2&c=3",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/this",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4d0613500a039cef46e553_Vector%20",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/6a4d0613500a039cef46e553_Vector%20\\(17",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/d",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/e??t,t",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/${t}",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/_next/static/immutable/chunks/${n}",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/assets/fonts.googleapis.com/css",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/api/human",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/api/price?market=${e.market_id}`,{cache:",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/api/withdraw",
+    "error": "<HTTPError 405: 'Method Not Allowed'>",
+    "status": 405
+  },
+  {
+    "url": "https://www.polyperps.org/api/position/close",
+    "error": "<HTTPError 405: 'Method Not Allowed'>",
+    "status": 405
+  },
+  {
+    "url": "https://www.polyperps.org/api/user?wallet=${t}`,{cache:",
+    "error": "<HTTPError 400: 'Bad Request'>",
+    "status": 400
+  },
+  {
+    "url": "https://www.polyperps.org/api/glossary/Errors",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/api/deposit",
+    "error": "<HTTPError 405: 'Method Not Allowed'>",
+    "status": 405
+  },
+  {
+    "url": "https://www.polyperps.org/api/price?market=${U}`,{cache:",
+    "error": "<HTTPError 404: 'Not Found'>",
+    "status": 404
+  },
+  {
+    "url": "https://www.polyperps.org/api/position/open",
+    "error": "<HTTPError 405: 'Method Not Allowed'>",
+    "status": 405
+  }
+]
