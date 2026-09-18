@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.mjs",
+    "build": "node verify.mjs && node build-static.mjs",
     "check": "node --check server.mjs && node verify.mjs"
   }
 }
