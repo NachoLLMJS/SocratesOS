@@ -3,7 +3,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "functions": {
-    "server.mjs": {
+    "api/index.mjs": {
       "includeFiles": "**/*"
     }
   },
@@ -11,7 +11,8 @@
   "trailingSlash": true,
   "rewrites": [
     { "source": "/api/markets", "destination": "/api/markets.json" },
-    { "source": "/api/ticks", "destination": "/api/ticks.json" }
+    { "source": "/api/ticks", "destination": "/api/ticks.json" },
+    { "source": "/(.*)", "destination": "/api/index" }
   ],
   "headers": [
     {
