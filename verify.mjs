@@ -5,8 +5,8 @@ import { fileURLToPath } from 'node:url'
 const root=path.dirname(fileURLToPath(import.meta.url))
 const required=[
   'index.html','trade/index.html',
-  '_next/static/immutable/chunks/2ffbhrw1aldfg.css',
-  '_next/static/immutable/chunks/25kvgcvbp6c14.js',
+  'vendor-next/static/immutable/chunks/2ffbhrw1aldfg.css',
+  'vendor-next/static/immutable/chunks/25kvgcvbp6c14.js',
   'assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/assets/index-DM4qWrvI.js',
   'assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/models/scene.glb',
   'assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/models/scene-mobile.glb',
@@ -14,7 +14,7 @@ const required=[
   'assets/cdn.jsdelivr.net/gh/MilovanovicMatija/prime@main/models/scene-mobile-bnb-flush.glb',
   'assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/js/webflow.achunk.6131e94a113e2847.js',
   'assets/cdn.prod.website-files.com/6a3e64ff64a92f2281e8e82a/js/webflow.achunk.ddcb9913a142f399.js',
-  '_next/static/immutable/chunks/3xckc-wigoukr.js',
+  'vendor-next/static/immutable/chunks/3xckc-wigoukr.js',
   'api/markets.json','api/ticks.json'
 ]
 for(const rel of required){const p=path.join(root,rel);if(!fs.existsSync(p)||!fs.statSync(p).size)throw new Error(`Missing ${rel}`)}

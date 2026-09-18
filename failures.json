@@ -50,7 +50,7 @@
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/e,t",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/e,t",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
@@ -125,22 +125,22 @@
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/e",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/e",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/t",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/t",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/b?a=1&b=2&c=3",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/b?a=1&b=2&c=3",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/this",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/this",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
@@ -155,22 +155,22 @@
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/d",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/d",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/e??t,t",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/e??t,t",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/${t}",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/${t}",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/${n}",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/${n}",
     "error": "<HTTPError 404: 'Not Found'>",
     "status": 404
   },

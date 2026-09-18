@@ -48,8 +48,8 @@
     "sha256": "e52d2b78a1e3cd8a4b01e204f426d14dcf8a90ea2f7aeb2b79259b7025184b25"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1kp1o4kqi1096.js",
-    "path": "_next/static/immutable/chunks/1kp1o4kqi1096.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/1kp1o4kqi1096.js",
+    "path": "vendor-next/static/immutable/chunks/1kp1o4kqi1096.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 8868,
@@ -128,8 +128,8 @@
     "sha256": "5c2e6788c900922fcaa3e44b6081e0a38b2dbba7ef5bd5aaa076a487e2f77dfa"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/20es43nb27oti.js",
-    "path": "_next/static/immutable/chunks/20es43nb27oti.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/20es43nb27oti.js",
+    "path": "vendor-next/static/immutable/chunks/20es43nb27oti.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 34718,
@@ -216,8 +216,8 @@
     "sha256": "82fe712b0580cd724eacd4c47213d0ad2bf4266cc8759c5376b062d5c8316fb8"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1o59465tdnhnz.js",
-    "path": "_next/static/immutable/chunks/1o59465tdnhnz.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/1o59465tdnhnz.js",
+    "path": "vendor-next/static/immutable/chunks/1o59465tdnhnz.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 159960,
@@ -232,8 +232,8 @@
     "sha256": "1f683763b4189f88407f26aaae149e06c0a50a1237cd7a90a6f29bf38109508c"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/0c0hxoamwjsbw.js",
-    "path": "_next/static/immutable/chunks/0c0hxoamwjsbw.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/0c0hxoamwjsbw.js",
+    "path": "vendor-next/static/immutable/chunks/0c0hxoamwjsbw.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 112594,
@@ -328,8 +328,8 @@
     "sha256": "9810f4919817adbcef872e93055b505a6548d083505cccdd7650a91d1588340a"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/33ygv9jxvhfqn.js",
-    "path": "_next/static/immutable/chunks/33ygv9jxvhfqn.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/33ygv9jxvhfqn.js",
+    "path": "vendor-next/static/immutable/chunks/33ygv9jxvhfqn.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 229612,
@@ -360,8 +360,8 @@
     "sha256": "dd6b580b5eaa054254b08180089525080e4a9957328f0c379d831a328e1c3db4"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/turbopack-04p7tto18vsw4.js",
-    "path": "_next/static/immutable/chunks/turbopack-04p7tto18vsw4.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/turbopack-04p7tto18vsw4.js",
+    "path": "vendor-next/static/immutable/chunks/turbopack-04p7tto18vsw4.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 9761,
@@ -472,16 +472,16 @@
     "sha256": "32fa460ad3af49d3c38c587035d497b46a53fc3e14998ab262493ad2c75568b2"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/25kvgcvbp6c14.js",
-    "path": "_next/static/immutable/chunks/25kvgcvbp6c14.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/25kvgcvbp6c14.js",
+    "path": "vendor-next/static/immutable/chunks/25kvgcvbp6c14.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 5364,
     "sha256": "8a943b00599e56b53569f36f4341e3465ae7705c1391562cd6c7e1f290c0c387"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/43qecj5z4iusi.js",
-    "path": "_next/static/immutable/chunks/43qecj5z4iusi.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/43qecj5z4iusi.js",
+    "path": "vendor-next/static/immutable/chunks/43qecj5z4iusi.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 19449,
@@ -584,8 +584,8 @@
     "sha256": "a94a8f9ba2bf4d0de9677b6495169cb925b506edf95926236a0abe5f9a7a6752"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/2ffbhrw1aldfg.css",
-    "path": "_next/static/immutable/chunks/2ffbhrw1aldfg.css",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/2ffbhrw1aldfg.css",
+    "path": "vendor-next/static/immutable/chunks/2ffbhrw1aldfg.css",
     "status": 200,
     "type": "text/css",
     "bytes": 21059,
@@ -664,8 +664,8 @@
     "sha256": "7a7a1bdbab5256db3e986c944fa3b2c725bc06bdb854482e2cc1eed77c5eb49c"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/381ehnbfui92x.js",
-    "path": "_next/static/immutable/chunks/381ehnbfui92x.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/381ehnbfui92x.js",
+    "path": "vendor-next/static/immutable/chunks/381ehnbfui92x.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 3855,
@@ -680,24 +680,24 @@
     "sha256": "931a2956763927414df83bc06f5f5f5a9cfd01abbad3237ea85c043ffde0a854"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1673r8o4y6jwl.js",
-    "path": "_next/static/immutable/chunks/1673r8o4y6jwl.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/1673r8o4y6jwl.js",
+    "path": "vendor-next/static/immutable/chunks/1673r8o4y6jwl.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 118114,
     "sha256": "2fb9831816d5a9ea240474aab03aa8c6ae221da83df41cfc6dd6bc0f7b60f73b"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/1w7lehy6p5giu.js",
-    "path": "_next/static/immutable/chunks/1w7lehy6p5giu.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/1w7lehy6p5giu.js",
+    "path": "vendor-next/static/immutable/chunks/1w7lehy6p5giu.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 181189,
     "sha256": "1529f366bc4e0c0a7ba7e5e4834ae77ed8ecb6f230e1e2054a1508fa8c86ee83"
   },
   {
-    "url": "https://www.polyperps.org/_next/static/immutable/chunks/2r-drklmnsl8t.js",
-    "path": "_next/static/immutable/chunks/2r-drklmnsl8t.js",
+    "url": "https://www.polyperps.org/vendor-next/static/immutable/chunks/2r-drklmnsl8t.js",
+    "path": "vendor-next/static/immutable/chunks/2r-drklmnsl8t.js",
     "status": 200,
     "type": "application/javascript",
     "bytes": 35484,

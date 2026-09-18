@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url'
 
 const root = path.dirname(fileURLToPath(import.meta.url))
 const out = path.join(root, 'dist')
-const entries = ['_next', 'api', 'assets', 'img', 'trade', 'favicon.ico', 'index.html', 'manifest.json', 'root.headers', 'socrates-runtime.js']
+const entries = ['vendor-next', 'api', 'assets', 'img', 'trade', 'favicon.ico', 'index.html', 'manifest.json', 'root.headers', 'socrates-runtime.js']
 
 fs.rmSync(out, { recursive: true, force: true })
 fs.mkdirSync(out, { recursive: true })
