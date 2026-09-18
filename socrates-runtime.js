@@ -3,7 +3,9 @@
   const entries = Object.entries(COPY).sort((a,b) => b[0].length - a[0].length);
   const blocked = new Set(['SCRIPT','STYLE','NOSCRIPT']);
   const norm = value => String(value || '').replace(/\s+/g,' ').trim();
+  const exactCopy = new Map(entries.map(([oldText,newText]) => [norm(oldText),newText]));
   const BINANCE_ORANGE='#F3BA2F';
+
   document.documentElement.style.setProperty('--base--yellow',BINANCE_ORANGE,'important');
   const theme=document.createElement('style');
   theme.id='socrates-binance-theme';
@@ -45,12 +47,10 @@
 
   function applyCopy() {
     const elements=[...document.querySelectorAll('*')].filter(el=>!blocked.has(el.tagName));
-    for(const [oldText,newText] of entries) {
-      const oldNorm=norm(oldText);
-      const matches=elements.filter(el=>norm(el.textContent)===oldNorm);
-      const deepest=matches.filter(el=>!matches.some(other=>other!==el && el.contains(other)));
-      deepest.forEach(el=>replacePreservingStructure(el,newText));
-    }
+    const matches=elements.filter(el=>exactCopy.has(norm(el.textContent)));
+    const matchSet=new Set(matches), notDeepest=new Set();
+    for(const match of matches) for(let parent=match.parentElement;parent;parent=parent.parentElement) if(matchSet.has(parent)) notDeepest.add(parent);
+    for(const el of matches) if(!notDeepest.has(el)) replacePreservingStructure(el,exactCopy.get(norm(el.textContent)));
     const attrs=['title','aria-label','alt','content','placeholder'];
     for(const el of document.querySelectorAll('*')) for(const attr of attrs) {
       if(!el.hasAttribute(attr)) continue;
@@ -110,10 +110,16 @@
       requestAnimationFrame(()=>toggle.setAttribute('aria-expanded',String(open)));
     },true);
   };
-  const start=()=>{ setupNavigation(); setTimeout(()=>{setupNavigation();applyCopy();},900); setTimeout(()=>{setupNavigation();applyCopy();},2600); };
+  const start=()=>{
+    setupNavigation();
+    const finish=()=>{setupNavigation();applyCopy();};
+    if('requestIdleCallback' in window) requestIdleCallback(finish,{timeout:600}); else setTimeout(finish,0);
+    setTimeout(setupNavigation,900);
+    setTimeout(setupNavigation,2600);
+  };
   if(document.readyState==='complete') start(); else window.addEventListener('load',start,{once:true});
 
-  const exactCopy=new Map(entries.map(([oldText,newText])=>[norm(oldText),newText]));
+
   const brandLegacy=[['POLY PERPS','SOCRATESOS'],['Poly Perps','SocratesOS'],['Polymarket','the market'],['Robinhood Chain','BNB Chain']];
   const hasLegacy=value=>{ const clean=norm(value); return exactCopy.has(clean)||brandLegacy.some(([term])=>String(value||'').includes(term)); };
   const patchTextNode=node=>{
