@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "start": "node server.mjs",
+    "start": "node scripts/local-server.mjs",
     "build": "node verify.mjs && node build-static.mjs",
-    "check": "node --check server.mjs && node verify.mjs"
+    "check": "node --check scripts/local-server.mjs && node verify.mjs"
   }
 }
