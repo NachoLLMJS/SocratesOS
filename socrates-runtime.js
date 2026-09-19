@@ -92,6 +92,17 @@
       document.querySelectorAll('.navbar_dropdown-link').forEach(anchor=>anchor.setAttribute('href','/#how-it-works'));
     const header=document.querySelector('header.nav');
     if(header){
+      const docsToggle=[...header.querySelectorAll('.w-dropdown-toggle,button')].find(toggle=>norm(toggle.textContent).toLowerCase()==='coverage');
+      if(docsToggle&&!docsToggle.dataset.socratesDocsReady){
+        replacePreservingStructure(docsToggle,'Docs');
+        docsToggle.dataset.socratesDocsReady='true';
+        docsToggle.setAttribute('aria-label','Open SocratesOS documentation in a new tab');
+        docsToggle.addEventListener('click',event=>{
+          event.preventDefault();
+          event.stopImmediatePropagation();
+          window.open('/docs/','_blank','noopener,noreferrer');
+        },true);
+      }
       header.querySelectorAll('a').forEach(anchor=>{
         if(norm(anchor.textContent).toLowerCase()==='method') replacePreservingStructure(anchor,'For builders');
       });
